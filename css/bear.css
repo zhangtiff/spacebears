@@ -29,13 +29,13 @@ body {
 #container {
 	width: 100%;
 	height: 100%; 
-	background: #cecece url('img/1.gif');
+	background: #cecece url('../img/1.gif');
 	float: left;
 	overflow: hidden;
 }
 
 #bear {
-	background: url('img/bear.png');
+	background: url('../img/bear.png');
 	width: 164px;
 	height: 300px;
 	position: relative; 
